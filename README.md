@@ -5,7 +5,6 @@
 With the given data, the SAT participation rates need to be improved and to provide recommendation to the stakeholder.
 
 ## Executive Summary
-If you want to, it's great to use relative links to direct your audience to various sections of a notebook. 
 
 ## Contents:
 - 2017 Data Import & Cleaning
